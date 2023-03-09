@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>Cambia mi color</title>
+
+</head>
+
+<body>
+
+<div class="cuadrados">
+
+<div class="cuadrado rosa" onclick="cambiarFondo('deeppink')"></div>
+<div class="cuadrado amarillo" onclick="cambiarFondo('gold')"></div>
+<div class="cuadrado naranja" onclick="cambiarFondo('darkorange')"></div>
+
+</div>
+
+<style>
+
+.cuadrados {display:flex;}
+
+.cuadrado {height:150px;width:150px;}
+
+.rosa {background-color: deeppink;}
+.amarillo {background-color: gold;}
+.naranja {background-color: darkorange;}
+
+</style>
+
+<script>
+
+function cambiarFondo(color) {document.querySelector('body').style.background = color;}
+
+
+</script>
+
+</body>
+</html>
