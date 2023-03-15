@@ -1,0 +1,60 @@
+footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: space-evenly;
+    background-color: midnightblue;
+    margin-top: 5%;
+}
+
+h1 {font-family: 'Tilt Warp', cursive;
+}
+
+.hero {
+    background:url(../img/header.jpg) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white
+}
+
+#ramiro {
+    background:url(https://via.placeholder.com/900x400/7d5b5b/969696.jpg?text=) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+}
+
+#jesica {
+    background:url(https://via.placeholder.com/900x400/3499ad/969696.jpg?text=) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white
+}
+
+.textright {
+    padding-left: 60%;
+    padding-right: 10%;
+}
+
+.textleft {
+    padding-right: 60%;
+    padding-left: 10%;
+}
+
+.nombre {
+    font-family: 'Tilt Warp', cursive;
+    font-size: 50px;
+}
+
+#contacto {background-color: darkcyan; margin-top: 5%;
+color: white;}
+
+textarea {width: 5px; height: 100px;}
+
+#exampleFormControlInput1 {margin-left: 1%;width: 35%;}
+#exampleFormControlTextarea1 {margin-left:1%;width:50%}
+#enviar {margin-left: 1%}
+.form-label {margin-left:1%}
