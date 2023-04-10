@@ -1,0 +1,226 @@
+footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: space-evenly;
+    background-color: midnightblue;
+    margin-top: 5%;
+}
+
+h1 {
+    font-family: 'Tilt Warp', cursive;
+    -webkit-text-stroke: 1px black;
+}
+
+.hero {
+    background: url(../img/header.jpg) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white
+}
+
+#ramiro {
+    background: url(https://via.placeholder.com/900x400/7d5b5b/969696.jpg?text=) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+}
+
+#jesica {
+    background: url(https://via.placeholder.com/900x400/3499ad/969696.jpg?text=) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white
+}
+
+#YogaIntegral {
+    background: url(https://via.placeholder.com/900x400/fff9a8/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+}
+
+#YogaTerapia {
+    background: url(https://via.placeholder.com/900x400/66ffb8/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Acroyoga {
+    background: url(https://via.placeholder.com/900x400/c174cf/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Teatro {
+    background: url(https://via.placeholder.com/900x400/f04343/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Psicodrama {
+    background: url(https://via.placeholder.com/900x400/b8b1b1/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Aquelarre {
+    background: url(https://via.placeholder.com/900x400/b943f0/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#cronograma {
+    background: url(https://via.placeholder.com/900x400/344e52/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 200px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Psicologica {
+    background: url(https://via.placeholder.com/900x400/97e075/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Biodescodificacion {
+    background: url(https://via.placeholder.com/900x400/ff9900/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Floral {
+    background: url(https://via.placeholder.com/900x400/f55ae8/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Registros {
+    background: url(https://via.placeholder.com/900x400/a6f1fc/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Abiertos {
+    background: url(https://via.placeholder.com/900x400/a4eb84/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+#Arancelados {
+    background: url(https://via.placeholder.com/900x400/ebb684/969696?text=+) no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 600px;
+    color: white;
+    padding-bottom: 2px;
+
+}
+
+.textright {
+    padding-left: 60%;
+    padding-right: 10%;
+}
+
+.textleft {
+    padding-right: 60%;
+    padding-left: 10%;
+}
+
+.nombre {
+    font-family: 'Tilt Warp', cursive;
+    font-size: 50px;
+}
+
+#contacto {
+    background-color: darkcyan;
+    margin-top: 5%;
+    color: white;
+}
+
+textarea {
+    width: 5px;
+    height: 100px;
+}
+
+#exampleFormControlInput1 {
+    margin-right: 1%;
+}
+
+#exampleFormControlTextarea1 {
+    margin-right: 1%;
+}
+
+#enviar {
+    margin-right: 1%
+}
+
+.form-label {
+    margin-right: 1%
+}
+
+.mapa iframe {
+    width: 70%;
+    aspect-ratio: 1.2;
+
+}
+
+.formulario {
+    margin-right: 15%;
+    ;
+}
+
+html {scroll-behavior: smooth;}
+
+.scroll_section {
+scroll-margin-top: 120px;
+
+}
